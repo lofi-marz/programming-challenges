@@ -1,0 +1,14 @@
+{
+  "name": "another-pi-calculator",
+  "version": "1.0.0",
+  "description": "Another pi calculator",
+  "main": "pi.js",
+  "scripts": {
+    "test": "node pi.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
